@@ -54,7 +54,7 @@ Weitere Screenshots und der Download befinden sich im Abschnitt „Selbst auspro
 
 **Simulatorzentrum 3D**
 
-- **Modellierung:** [Blender](https://www.blender.org/) 5.2, gesteuert über die MCP-Server-Integration aus dem Blender Lab. Die komplette Welt — Hallen, Simulatoren, Hexapods, Treppen, Schläuche, Cockpit — entsteht prozedural aus einem Python-Generator und lässt sich jederzeit reproduzierbar neu erzeugen.
+- **Modellierung:** Blender 5.2, gesteuert über die MCP-Server-Integration aus dem Blender Lab. Die komplette Welt — Hallen, Simulatoren, Hexapods, Treppen, Schläuche, Cockpit — entsteht prozedural aus einem Python-Generator und lässt sich jederzeit reproduzierbar neu erzeugen.
 - **Austauschformat:** Ein einziges glTF-Binary (GLB) dient zugleich der Web-App und als Grundlage für die Unreal-Engine-Version — Änderungen am Modell fließen so ohne Konvertierungsschritte in beide Welten.
 - **Darstellung:** Babylon.js mit Kamerapunkten und Infotexten, Orbit-Ansicht mit von außen durchsichtigen Hallen, freiem Begehen (WASD, optional mit Schwerkraft) und VR-Teleport über WebXR, sobald eine Brille erkannt wird.
 
